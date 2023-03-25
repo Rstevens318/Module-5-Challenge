@@ -2,7 +2,7 @@
 
 ## Pymaceuticals Inc.
 
-As the senior data analyst at Pymaceuticals Inc you have been tasked with reviewing the data from the most recent animal study beta testing new drug regimens to combat skin cancer.I do not agree with animal testing personally, but this is a ficticious assignment so have fun with it.
+As the senior data analyst at Pymaceuticals Inc you have been tasked with reviewing the data from the most recent animal study beta testing new drug regimens to combat skin cancer. I do not agree with animal testing personally, but this is a ficticious assignment so have fun with it.
 
 During this study we want to compare performances of all drug regimens while paying close attention to the regimen of interest, Capomulin.
 
